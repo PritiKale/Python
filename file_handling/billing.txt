@@ -1,0 +1,5 @@
+
+ Product name is: pd
+ Rate is: 100
+ Quantity is: 10
+ Final Bill Amount is: 1000
